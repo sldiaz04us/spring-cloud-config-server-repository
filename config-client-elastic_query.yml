@@ -15,3 +15,8 @@ elastic-config:
   connect-timeout-ms: 5000
   socket-timeout-ms: 30000
   is-repository: true
+
+user-config:
+  username: test
+  password: '{cipher}c716c47067f6bdc5aa317ada617700db2a6ca56963c486a2060f0522eebb04b2'
+  roles: USER
